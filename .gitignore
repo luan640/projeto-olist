@@ -1,0 +1,7 @@
+*.csv
+*.db
+*.pyc
+__pycache__
+.vscode
+*.zip
+.env_olist
